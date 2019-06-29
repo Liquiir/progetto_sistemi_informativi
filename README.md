@@ -8,6 +8,6 @@ Per effettuare tale combinazione si ricorre ad un algoritmo costituito da quattr
 #### •	Detection: identificare i punti di interesse;
 #### •	Description: estrarre un insieme di descrittori di feature che circondano ogni punto di interesse;
 #### •	Matching: determinare la corrispondenza tra descrittori in due immagini;
-#### •	Homography: le immagini vengono allineate ottendendo un immagine panoramica;
+#### •	Homography: le immagini vengono allineate ottenendo un immagine panoramica;
 
 L’algoritmo viene implementato utilizzando la libreria software open source OpenCV insieme al linguaggio di programmazione Python e   l’ambiente di sviluppo Google Colaboratory
