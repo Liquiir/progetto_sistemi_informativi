@@ -12,3 +12,5 @@ Per effettuare tale combinazione si ricorre ad un algoritmo costituito da quattr
 
 L’algoritmo viene implementato utilizzando la libreria software open source OpenCV insieme al linguaggio di programmazione Python e   l’ambiente di sviluppo Google Colaboratory
 https://colab.research.google.com/drive/1Bbgy--Uwggm_cSco4uP9nU3PqC8a5qty
+
+## Copyright © 1999 SIFT by David G.Lowe. Tutti i diritti riservati
